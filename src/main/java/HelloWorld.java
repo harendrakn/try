@@ -2,6 +2,7 @@ public class HelloWorld {
     public static void main(String[] args) {
         writeMessages();
         System.out.println("Main Method");
+        System.out.println("Main Method done");
     }
 
     static void writeMessages(){
