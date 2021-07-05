@@ -7,6 +7,7 @@ public class HelloWorld {
         System.out.println("Hello Everyone!!!");
         System.out.println("Another Line");
         System.out.println("This is my second line");
+        System.out.println("Main Method");
     }
 
 }
